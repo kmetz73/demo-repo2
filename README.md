@@ -4,9 +4,9 @@ Some text
 
 # To  push new repo  and made folder locally
 
-git init (initialize repo)
-git add (ether . (all changes) or name of file to add changes )
-git commit -m "(name of title or what i changed)" -m "description"
+1.git init (initialize repo)
+2.git add (ether . (all changes) or name of file to add changes )
+3.git commit -m "(name of title or what i changed)" -m "description"
 # Next create git repository on github
 
 # Steps to push to git hub
