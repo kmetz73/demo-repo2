@@ -3,14 +3,14 @@
 Some text
 
 # To  push new repo  and made folder locally
- Markup : * Bullet list
+  * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
 
 -OR-
 
- Markup : - Bullet list
+  - Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
