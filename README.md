@@ -10,8 +10,8 @@
 # Next create git repository on github
 
 # Steps to push to git hub
-git remote add origin (ether ssh or https link to repo)
+1. git remote add origin (ether ssh or https link to repo)
 (to check if it worked ues git remote -v)
-git push -u(upstream to set default repo to push to) origin master
+2. git push -u(upstream to set default repo to push to) origin master
 
 
