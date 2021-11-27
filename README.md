@@ -4,7 +4,13 @@ Some text
 
 # To  push new repo  and made folder locally
 
-markup:1.git init (initialize repo)
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
+
+1.git init (initialize repo)
       2.git add (ether . (all changes) or name of file to add changes )
        3.git commit -m "(name of title or what i changed)" -m "description"
 # Next create git repository on github
