@@ -1,6 +1,7 @@
-# Demo2
+# Local Repo to Git hub
 
-Some text
+
+
 
 # To  push new repo  and made folder locally
 1. git init (initialize repo)
